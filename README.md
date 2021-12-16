@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanZhl
 - 👀 I’m interested in back-end developing!
-- 🌱 I’m currently learning popular frameworks for Python and Java.
+- 🌱 I’m currently learning popular frameworks for Python and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
